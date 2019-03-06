@@ -1,0 +1,1 @@
+MIPerro,Jirafa,Bisonte,serpiente,girasol,orquidea,lirio,Tcp,Socketflujo,Datagrama,comunicacion,servidor,cliente,orquidea,lirio,Tcp
